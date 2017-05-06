@@ -30,3 +30,5 @@
 ## Demo说明
 
 Demo取自typescript的官方样例
+
+![week1demo](./week1.png)
