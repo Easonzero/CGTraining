@@ -29,6 +29,7 @@
 3. 实现pdf为sin函数形式的球面取样函数
 
 ([Sampler](https://github.com/Easonzero/Sampler)项目地址：https://github.com/Easonzero/Sampler)
+
 (对[Sampler](https://github.com/Easonzero/Sampler)项目有任何疑问或者修改意见欢迎提issue，更欢迎直接pull request！)
 
 本任务预期完成时间为17.5.13前
